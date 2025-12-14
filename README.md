@@ -1,0 +1,1 @@
+Solución a los ejercicios del curso [Desafío de programación: Python para ciencia de datos](https://www.linkedin.com/learning/desafio-de-programacion-python-para-ciencia-de-datos/desafiate-con-python) de LinkedIn Learning.
